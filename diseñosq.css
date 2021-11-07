@@ -1,0 +1,33 @@
+h1{ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:darkred;
+    background-color:rgb(214, 134, 134);
+
+}
+h2{ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+p{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.personal{color: darkred;
+
+}
+.nombre{
+    color: darkred;
+}
+.pagina{
+    border-color:rgb(109, 5, 5);
+    border-style:double;
+    border-width:thick;
+}
+.bord{
+    border-color:darkred;
+    border-style:dashed;
+}
+table{
+    background-color:rgb(224, 186, 186);
+    border-color:brown;
+}
+nav{
+    background-color:rgb(255, 200, 200);
+}
